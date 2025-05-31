@@ -21,6 +21,7 @@ A Python-based AI voice assistant that handles inbound and outbound calls to aut
 │   ├── services/       # Business logic services
 │   └── utils/          # Utility functions and configs
 ├── main.py             # FastAPI application entry point
+├── config.py           # Config Python File
 ├── requirements.txt    # Project dependencies
 └── .env                # Environment variables (create from .env.example)
 ```
